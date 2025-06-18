@@ -1,0 +1,16 @@
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link,
+.navbar-dark .navbar-text {
+    color: white !important; /* Forces the text color to white */
+}
+
+/* If you want to change the color of the active link */
+.navbar-dark .nav-link.active {
+    color: #FF0000 !important; /* A slightly off-white for active link, or just white */
+}
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+
